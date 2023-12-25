@@ -54,6 +54,10 @@ img {
     border-radius: 25px;
 }
 
+.input-section strong {
+    font-size: 1.6rem;
+}
+
 #text-box {
     height: 50px;
     border: none;

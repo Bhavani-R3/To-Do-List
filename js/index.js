@@ -23,7 +23,7 @@ function addTask() {
 
 
 
-function saveData() {
+/* function saveData() {
     localStorage.setItem("data", taskList.innerHTML);
 } 
 
@@ -31,4 +31,4 @@ function showTaskList() {
     taskList.innerHTML = localStorage.getItem("data");
 }
 
-showTaskList(); 
+showTaskList();  */
